@@ -1,0 +1,12 @@
+# For develop environment
+/.idea
+/.vscode
+
+
+# For pyenv
+.python-version
+
+*.pyc
+# For OS generated
+.DS_Store
+.DS_Store?
